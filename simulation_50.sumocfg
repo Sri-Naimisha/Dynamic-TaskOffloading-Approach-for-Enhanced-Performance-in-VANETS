@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="test.net.xml"/>
+        <route-files value="simulation_50.rou.xml"/>
+	<additional-files value="rsu_edge.add.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="50"/>
+    </time>
+</configuration>

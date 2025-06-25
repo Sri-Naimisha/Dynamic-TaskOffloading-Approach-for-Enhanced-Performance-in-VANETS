@@ -1,0 +1,26 @@
+[
+  {
+    "vehicles": 50,
+    "delay": 0.1599,
+    "time": 9.8e-05,
+    "throughput": 204102.3844
+  },
+  {
+    "vehicles": 100,
+    "delay": 0.1564,
+    "time": 0.001019,
+    "throughput": 59834.5519
+  },
+  {
+    "vehicles": 500,
+    "delay": 0.1549,
+    "time": 0.002404,
+    "throughput": 25372.1285
+  },
+  {
+    "vehicles": 1000,
+    "delay": 0.1548,
+    "time": 0.004905,
+    "throughput": 12435.722
+  }
+]

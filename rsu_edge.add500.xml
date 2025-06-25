@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+    <!-- 30 RSUs -->
+    <poi id="rsu1" x="100" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu2" x="300" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu3" x="500" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu4" x="700" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu5" x="900" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu6" x="100" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu7" x="300" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu8" x="500" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu9" x="700" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu10" x="900" y="5000" type="RSU" color="255,0,0"/>
+
+    <poi id="rsu11" x="110" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu12" x="320" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu13" x="520" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu14" x="720" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu15" x="920" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu16" x="120" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu17" x="320" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu18" x="520" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu19" x="720" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu20" x="930" y="5000" type="RSU" color="255,0,0"/>
+
+
+    <poi id="rsu21" x="160" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu22" x="360" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu23" x="560" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu24" x="760" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu25" x="950" y="1000" type="RSU" color="255,0,0"/>
+    <poi id="rsu26" x="150" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu27" x="350" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu28" x="550" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu29" x="750" y="5000" type="RSU" color="255,0,0"/>
+    <poi id="rsu30" x="950" y="5000" type="RSU" color="255,0,0"/>
+
+
+    <!-- 60 Edge Servers -->
+    <!-- Row 1 -->
+    <poi id="edge1" x="150" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge2" x="250" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge3" x="350" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge4" x="450" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge5" x="550" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge6" x="650" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge7" x="750" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge8" x="850" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge9" x="950" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge10" x="1050" y="1000" type="EdgeServer" color="0,0,255"/>
+
+    <!-- Row 2 -->
+    <poi id="edge11" x="110" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge12" x="210" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge13" x="310" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge14" x="410" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge15" x="510" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge16" x="610" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge17" x="710" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge18" x="810" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge19" x="910" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge20" x="1100" y="1000" type="EdgeServer" color="0,0,255"/>
+
+    <!-- Row 3 -->
+    <poi id="edge21" x="150" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge22" x="250" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge23" x="350" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge24" x="450" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge25" x="550" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge26" x="650" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge27" x="750" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge28" x="850" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge29" x="950" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge30" x="1500" y="1200" type="EdgeServer" color="0,0,255"/>
+    
+    <poi id="edge31" x="159" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge32" x="259" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge33" x="359" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge34" x="459" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge35" x="559" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge36" x="659" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge37" x="759" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge38" x="859" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge39" x="959" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge40" x="1059" y="1000" type="EdgeServer" color="0,0,255"/>
+
+    <!-- Row 2 -->
+    <poi id="edge41" x="119" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge42" x="219" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge43" x="319" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge44" x="419" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge45" x="519" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge46" x="619" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge47" x="719" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge48" x="819" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge49" x="919" y="1000" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge50" x="1109" y="1000" type="EdgeServer" color="0,0,255"/>
+
+    <!-- Row 3 -->
+    <poi id="edge51" x="159" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge52" x="259" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge53" x="359" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge54" x="459" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge55" x="559" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge56" x="659" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge57" x="759" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge58" x="859" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge59" x="959" y="1200" type="EdgeServer" color="0,0,255"/>
+    <poi id="edge60" x="1509" y="1200" type="EdgeServer" color="0,0,255"/>
+
+</additional>
