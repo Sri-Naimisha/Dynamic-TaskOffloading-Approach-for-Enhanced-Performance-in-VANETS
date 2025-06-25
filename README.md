@@ -14,7 +14,7 @@ Our approach enhances performance by:
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python
 - SUMO (Simulation of Urban Mobility)
@@ -23,7 +23,7 @@ Our approach enhances performance by:
 
 ---
 
-## 🧠 Core Logic
+## Core Logic
 
 1. **SUMO** is used to simulate real-time vehicle mobility.
 2. **TraCI (Python)** extracts live vehicle and task data from SUMO.
