@@ -1,6 +1,6 @@
 # Dynamic Task Offloading in VANETs
 
-This project implements a dynamic task offloading system in Vehicular Ad-hoc Networks (VANETs), using **probabilistic filtering** and the **Kuhn-Munkres (Hungarian) algorithm** to optimize task assignment from vehicles to edge servers and RSUs.
+THIS IS OUR MINI PROJECT- A DYNAMIC TASK OFFLOADING APPROACH FOR ENHANCED PERFORMANCE IN VEHICULAR AD-HOC NETWORKS (VANETS), using **probabilistic filtering** and the **Kuhn-Munkres (Hungarian) algorithm** to optimize task assignment from vehicles to edge servers and RSUs.
 
 ---
 
